@@ -2,7 +2,6 @@
 
 ### How to use EzConfig
 
-Create *config.properties* file in this path "/src/main/resources/config.properties"
-And you can easily access the config file by using EzConfig.getProperty("");
+Create *config.properties* file in this path *"/src/main/resources/config.properties"* and you can easily access the config file by using EzConfig.getProperty("");
 
 - public static final String EXAMPLE = EzConfig.getProperty("");

@@ -9,8 +9,8 @@
     <version>1.0</version>
 
     <name>EzConfig</name>
-    <description>You can easily access your config.properties and Loggers now—no need to waste your time for coding.</description>
-    <url>https://github.com/cozyloon/EzConfig</url>
+    <description>You can easily access your Java properties file and Java Loggers now. No need to waste your time for configure it again. Accessing Java properties, and Java loggers is now easy.</description>
+    <url>https://github.com/cozyloon/EzConfigProperties</url>
 
     <licenses>
         <license>
@@ -23,15 +23,15 @@
         <developer>
             <name>Chathumal Sangeeth</name>
             <email>chathumalsangeeth5@gmail.com</email>
-            <organization>It's ME</organization>
+            <organization>cozyloon (Chathumal Sangeeth)</organization>
             <organizationUrl>https://www.linkedin.com/in/chathumal-sangeeth/</organizationUrl>
         </developer>
     </developers>
 
     <scm>
-        <connection>scm:git:git://github.com/cozyloon/EzConfig.git</connection>
-        <developerConnection>scm:git:ssh://github.com:cozyloon/EzConfig.git</developerConnection>
-        <url>https://github.com/cozyloon/EzConfig</url>
+        <connection>scm:git:git://github.com/cozyloon/EzConfigProperties.git</connection>
+        <developerConnection>scm:git:ssh://github.com:cozyloon/EzConfigProperties.git</developerConnection>
+        <url>https://github.com/cozyloon/EzConfigProperties</url>
     </scm>
 
     <properties>

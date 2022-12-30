@@ -34,6 +34,10 @@ Create `config.properties` file in this path `"/src/main/resources/config.proper
 
 
 
+
+
+
+
 Keywords:
 Java properties file,
 Java Loggers,

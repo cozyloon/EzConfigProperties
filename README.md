@@ -18,7 +18,7 @@ First, add the following dependency to your pom.xml file:
     <version>1.0</version>
 </dependency>
 ```
-You can download the latest one here -> [EzConfig](https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig)
+You can download the latest version here -> [EzConfig](https://mvnrepository.com/artifact/io.github.cozyloon/ezconfig)
 
 Once you have added the repository and dependency to your pom.xml file, you can import the EzConfig library in your Java code using the following import statement:
 `import io.github.cozyloon.EzConfig;`

@@ -26,7 +26,8 @@ Once you have added the repository and dependency to your pom.xml file, you can 
 Create `config.properties` file in this path `"/src/main/resources/config.properties"`. That's it. 
 
 >Now you can easily access the config file by using `EzConfig.getProperty("");`
-<b>public static final String EXAMPLE = EzConfig.getProperty("");</b>
+
+`public static final String EXAMPLE = EzConfig.getProperty("");`
 
 
 >Now you can easily access the logger by using `EzConfig.logInfo("");` `EzConfig.logWarning("");` and `EzConfig.logError("");`
